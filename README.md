@@ -5,7 +5,7 @@
 ✅    CNN, RNN, LSTM, LLM, Stable Diffusion, Transformer <br />
 ✅    Python, Tensorflow, Keras, Pytorch, Scikit-learn, FastAPI, Django <br />
 ✅    Node.js, React, NextJs, Nest.js, Web3, Ethersjs <br />
-✅    PHP/Laravel, Ruby on Rails, Python/Django <br />
+✅    PHP/Laravel, Ruby on Rails, Shopify <br />
 ✅    Mysql, Mongodb, Firebase, Airtable, Supabase <br />
 ✅    AWS, Azure, Docker <br />
 
