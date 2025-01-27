@@ -1,5 +1,5 @@
 ## 🌱 Make it work, make it right, make it fast
-### AI/ML, LLM, Full-stack Developer with unie specialization in <br />
+### AI/ML, Full-stack Developer with unique specialization(8 years) in <br />
 
 ✅    AI, LLM, Langchain, RAG, Fine-Tunning, OpenAI, Amazon Bedrock, Make.com <br />
 ✅    CNN, RNN, LSTM, LLM, Stable Diffusion, Transformer <br />
